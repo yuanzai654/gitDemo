@@ -1,2 +1,3 @@
 测试gitDemo
 测试gitAdd
+测试gitDiff --cached file
